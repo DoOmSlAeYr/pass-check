@@ -10,4 +10,9 @@ the project on GitHub:
  https://github.com/DoOmSlAeYr/pass-check
 This tool requires **Python 3+**. To install all required libraries and run the tool, use this command:
 ```bash
-pip install colorama pyfiglet && python passcheck.py
+pkg update && pkg upgrade && pip install colorama pyfiglet && pkg install python && git clone https://github.com/DoOmSlAeYr/pass-check
+to run the tool use this command:
+```
+to run this tool use this command:
+```bash
+cd pass-check && python passcheck.py
